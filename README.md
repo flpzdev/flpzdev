@@ -24,5 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flpzdev&show_icons=true&locale=en&layout=compact" alt="flpzdev" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flpzdev&show_icons=true&locale=en" alt="flpzdev" /></p>
 
